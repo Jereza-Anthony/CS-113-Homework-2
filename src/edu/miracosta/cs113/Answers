@@ -1,0 +1,3 @@
+I never got a solution in fewer than 20 guesses. This does not change depending on the theory that is tested.
+The only good thing about this strategy is that it will always eventually find the answer. The bad thing is that
+the amount of guesses it takes to find the answer on average is very high and varies dramatically depending on RNG.
